@@ -1,0 +1,8 @@
+Elliptical flower arrangement,
+Vertical flower arrangement,
+Horizontal flower arrangement,
+Triangular flower arrangement,
+Crescent flower arrangement,
+'S' shaped flower arrangement,
+Oval shaped flower arrangement,
+Cascade flower arrangement,
